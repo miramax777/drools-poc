@@ -1,2 +1,2 @@
 # drools-poc
-POC examples for DROOLS
+POC and examples for DROOLS
